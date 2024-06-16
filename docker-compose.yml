@@ -1,9 +1,9 @@
 version: '3.8'
+
 services:
   drag-app:
-    build: .
+    image: amanguptak/drag-docker:latest
     ports:
       - "80:80"
     environment:
-      - CHOKIDAR_USEPOLLING=true  
-
+      - CHOKIDAR_USEPOLLING=true
