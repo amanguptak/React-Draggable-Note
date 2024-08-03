@@ -1,8 +1,6 @@
-Here is a GitHub README file based on the provided content:
 
----
 
-# Project Deployment Guide
+# Project React-Draggable Deployment Guide
 
 This repository outlines the steps and processes involved in deploying an application using Docker, AWS EC2, and GitHub Actions for CI/CD.
 
